@@ -26,3 +26,4 @@ minimize obj:BuildingLength;
 
 solve;
 printf "%f\n",BuildingLength;
+
